@@ -24,21 +24,15 @@ From crafting clean frontend interfaces to designing efficient backend systems, 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-- HTML5, CSS3, JavaScript  
-- React.js, TypeScript  
-- Tailwind CSS  
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" /> </p>
 ### 🎞️ Animation & UI
-- CSS Animations  
-- Framer Motion  
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/framer/motion/main/.github/logo.svg" width="45" /> </p> 
 
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" /> </p>
 
 ### 🗄️ Database
-- MySQL  
-- MongoDB  
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" /> </p> 
 
 ---
 
@@ -58,7 +52,7 @@ From crafting clean frontend interfaces to designing efficient backend systems, 
 </p>
 
 ---
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" /> </p>
 ## 📫 Let’s Connect
 
 - 📧 **Email:** gthari12345@gmail.com  
