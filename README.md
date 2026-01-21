@@ -59,8 +59,8 @@ From crafting clean frontend interfaces to designing efficient backend systems, 
 
 ## 📫 Let’s Connect
 
-- 📧 **Email:** your-email@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/your-profile  
+- 📧 **Email:** gthari12345@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hari-g-it-skct-2025/
 - 🌐 **Portfolio:** https://hari-portfolio-eosin.vercel.app  
 
 ---
