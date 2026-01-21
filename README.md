@@ -38,8 +38,8 @@ From crafting clean frontend interfaces to designing efficient backend systems, 
 ### 🎞️ Animation & UI
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/framer/motion/main/.github/logo.svg" width="45" /> </p>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="45"/>
+</p>
 
 ### ⚙️ Backend
 <p>
