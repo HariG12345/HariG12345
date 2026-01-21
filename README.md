@@ -11,7 +11,7 @@ I'm a passionate **Full-Stack Web Developer** and final-year **B.Tech IT student
 From crafting clean frontend interfaces to designing efficient backend systems, I love working on **end-to-end solutions** that solve real problems.
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Hari G Coding" width="800" />
+  <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Hari G Coding" width="500" />
 </p>
 
 - 💻 Strong interest in modern web technologies  
