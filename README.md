@@ -32,14 +32,14 @@ From crafting clean frontend interfaces to designing efficient backend systems, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+
 </p>
 
 ### 🎞️ Animation & UI
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/logo.svg" width="45"/>
-</p>
+<img src="https://raw.githubusercontent.com/framer/motion/main/.github/logo.svg" width="45" /> </p>
+
 
 ### ⚙️ Backend
 <p>
