@@ -1,16 +1,68 @@
-## Hi there 👋
+<p align="center">
+  <img src="./profilo.gif" alt="Hari G Coding" width="800" />
+</p>
 
-<!--
-**HariG12345/HariG12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hari G 👋  
+### Full-Stack Web Developer | Turning ideas into scalable digital experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Web Developer** and final-year **B.Tech IT student** who enjoys building fast, reliable, and user-focused web applications.  
+From crafting clean frontend interfaces to designing efficient backend systems, I love working on **end-to-end solutions** that solve real problems.
+
+- 💻 Strong interest in modern web technologies  
+- 🤖 Curious about AI, system design & performance  
+- 🎯 Focused on functionality, logic, and scalability  
+- ☕ Powered by coffee and clean code  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+- HTML5, CSS3, JavaScript  
+- React.js, TypeScript  
+- Tailwind CSS  
+
+### 🎞️ Animation & UI
+- CSS Animations  
+- Framer Motion  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+
+### 🗄️ Database
+- MySQL  
+- MongoDB  
+
+---
+
+## 🌟 What I Do
+
+- ✅ Build responsive, mobile-first websites & web apps  
+- ✅ Develop REST APIs & backend systems  
+- ✅ Integrate smooth animations and modern UI  
+- ✅ Optimize applications for performance & scalability  
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariG12345&layout=compact&theme=react" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 **Email:** your-email@gmail.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/your-profile  
+- 🌐 **Portfolio:** https://hari-portfolio-eosin.vercel.app  
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
