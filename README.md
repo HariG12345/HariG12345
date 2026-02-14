@@ -89,5 +89,5 @@ From crafting clean frontend interfaces to designing efficient backend systems, 
 ---
 
 <p align="center">
-  ⭐ <b>Feel free to explore my repositories and projects!</b>
+  ⭐ <b>Feel free to explore my repositories and projects!..</b>
 </p>
